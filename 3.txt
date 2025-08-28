@@ -1,0 +1,9 @@
+:javascript
+Html input
+-> document .getelementbyid("demo").innerhtml or innertext="Hello";
+:Html output
+->document.write(sum/subtract/mul/div/etc)
+:html browse
+->console.log()
+:html alert box
+->window.alert()
